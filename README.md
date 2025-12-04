@@ -208,7 +208,7 @@
 ║   Support: GitHub Issues & Discussions                                       ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
+
 
 🤖 Optimize Your AI Assistant (Optional but Recommended):
 
@@ -365,6 +365,7 @@ AI: "Found 3 type errors:
 python install.py
 # Restart editor
 # Done - AI now has Pylance powers
-```
+
 
 The beauty of MCP is that it's **invisible infrastructure**. Users just chat, AI uses the tools automatically.
+```
